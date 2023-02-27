@@ -2,6 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marwanfouz)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marwanfouz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-readme-stats.vercel.app/api?username=ryo-ma&amp;count_private=true&amp;include_all_commits=true)]()
 <!--
 **Marwanfouz/Marwanfouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
