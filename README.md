@@ -4,7 +4,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwanfouz.Marwanfouz&left_color=forestgreen&right_color=yellow"  />
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Marwanfouz.Marwanfouz)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marwanfouz)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
