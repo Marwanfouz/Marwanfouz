@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwanfouz.Marwanfouz&left_color=forestgreen&right_color=yellow"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marwanfouz.Marwanfouz&left_color=blue&right_color=yellow"  />
 </div>
 
 
